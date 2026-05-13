@@ -751,7 +751,6 @@ section {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 6vw;
-  align-items: start;
 }
 .orc-info h2 {
   margin-bottom: 1.5rem;
@@ -794,6 +793,7 @@ section {
   display: flex;
   flex-direction: column;
   gap: 1.2rem;
+  margin-top: 10rem;
 }
 .form-row {
   display: grid;
